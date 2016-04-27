@@ -1,0 +1,27 @@
+{
+  "name": "MeanApp",
+  "version": "0.0.0",
+  "authors": [
+    "randheerpolepelly <polepelly.randheer@gmail.com>"
+  ],
+  "description": "Mean application practice",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.5",
+    "angular-resource": "~1.5.5",
+    "angular-route": "~1.5.5",
+    "angular-ui-router": "ui-router#~0.2.18",
+    "jquery": "~2.2.3",
+    "toastr": "~2.1.2"
+  }
+}
